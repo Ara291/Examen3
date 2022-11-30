@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Brandon",
+    "apellidos": "Diaz",
+    "carrera": "isc",
+    "matricula": 888
+  },
+  {
+    "id": 2,
+    "nombre": "Ariadna",
+    "apellidos": "Rodriguez",
+    "carrera": "isc",
+    "matricula": 777
+  }
+]
